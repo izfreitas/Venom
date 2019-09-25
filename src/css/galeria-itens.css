@@ -1,0 +1,50 @@
+#item1 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMGY5YmVjMDUtNDExZi00YWI3LTkyYzktNzBjYjdjN2RkYzFlXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,707,1000_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item2 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjA5MTUzOTkwNl5BMl5BanBnXkFtZTgwNjU3NjU4NjM@._V1_SX1777_CR0,0,1777,745_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item3 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BODkyODA3MjMwNF5BMl5BanBnXkFtZTgwOTc3NTU0NjM@._V1_SX1777_CR0,0,1777,829_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item4 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNDI4Nzc0NzA0NF5BMl5BanBnXkFtZTgwNzU0MDU0NjM@._V1_SY1000_CR0,0,665,1000_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item5 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjIyODc2OTk5MF5BMl5BanBnXkFtZTgwMTE2MzEzNjM@._V1_SY1000_CR0,0,666,1000_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item6 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BODRmYTRlY2YtMjMyOC00YTIyLTlhMjEtNDhiNTdlZTdlMzVmXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item7 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BYTYyOGVkMTUtMGExMC00YzdhLWI4ZWItZTAzZjVmOWZlODE4XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item8 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BYTI3NWFiZGYtNzI0YS00MDhmLTk1ZGItZTUzYTE0MDExMmVmXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SX1777_CR0,0,1777,740_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item9 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTdjNmQzYTktZjQ0Yi00MDVlLTg1NDAtNTViNWFhYzk5MTlmXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SX1777_CR0,0,1777,740_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+#item10 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTE0NTU0NDE5OTheQTJeQWpwZ15BbWU4MDc0NzY1ODYz._V1_SX1500_CR0,0,1500,999_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}

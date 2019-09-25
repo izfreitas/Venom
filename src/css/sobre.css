@@ -1,0 +1,26 @@
+#sobre  {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+ #sobre p span {
+     color: rgb(255, 0, 0);
+     font-weight: bold;
+ }
+
+ #sobre p {
+     margin-bottom: 30px;
+ }
+
+ #sinopse {
+    color: rgb(255, 0, 0)197);
+    max-width: 800px;
+    text-align: center;
+ }
+
+ #texto {
+     color: rgb(255, 255, 255);
+ }

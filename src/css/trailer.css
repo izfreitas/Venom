@@ -1,0 +1,13 @@
+#trailer {
+    background-color: rgb(148, 0, 0);
+    color: white;
+    text-align: center;
+    
+}
+
+#trailer div {
+    width: 100vw;
+    background-size: cover;
+
+}
+
