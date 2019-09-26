@@ -1,0 +1,57 @@
+#estrelas {
+    background-image: url("../img/Estrela13.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#container-estrelas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80vw;
+    margin-bottom: 50px;
+}
+
+#container-estrelas a {
+    text-decoration: none;
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#container-estrelas a:hover {
+    box-shadow: 0 0 10px rgb(255, 255, 255, 0.5);
+}
+
+#container-estrelas a p {
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    background-color: rgb(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: 300px;
+}
+
+#Michelle {
+    background-image: url("../img/Michelle.jpg");
+    background-position-x: -1200px;
+}
+
+#Tom {
+    background-image: url("../img/Tom.jpg");
+    background-position-x: -1000px;
+}
+
+#Riz {
+    background-image: url("../img/Riz.jpg");
+    background-position-x: -1000px;
+}
+#estrelas h3 {
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0, 0.7)
+}
