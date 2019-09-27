@@ -42,7 +42,7 @@ a{
 }
 
 a:hover {
-    background-color: rgb(255, 20, 20)
+    background-color: rgb(255, 20, 20);
 }
 
 #Michelle-main {
@@ -61,6 +61,6 @@ a:hover {
     #lauren-main {
         background-size: contain;
         background-position-x: 0;
-        background-color: rgb(255, 255, 255))
+        background-color: rgb(255, 255, 255);
     }
 }
